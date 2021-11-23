@@ -22,7 +22,7 @@
 
     <div class="panel panel-install">
         <div class="panel-heading text-center">
-            <h2>Neo Billing Installer</h2>
+            <h2>Aleco Tanzania Installer</h2>
         </div>
         <div class="panel-body no-padding">
             <div class="tab-container clearfix">
@@ -99,13 +99,13 @@
                         <div class="text-center">
                             <h4>About</h4>
                             <hr class="star-primary">
-                            <p>Application Name: <strong>Neo Billing</strong></p>
+                            <p>Application Name: <strong>Aleco Tanzania</strong></p>
                             <p>Version: <strong> v <?php echo VER ?></strong></p>
 
                             <p>Release Date: <strong><?php echo RDATE ?></strong></p>
 
-                            <p>By: <strong>UltimateKode</strong> [ <a href="https://www.ultimatekode.com"
-                                                                      target="_blank">www.ultimatekode.com</a>
+                            <p>By: <strong>alecotz</strong> [ <a href="https://www.alecotz.com"
+                                                                      target="_blank">www.alecotz.com</a>
                                 ]</p>
                         </div>
                     </div>
@@ -519,7 +519,7 @@
 
                     </div>
                     <div class="text-center m-b-10">
-                        Thank you for purchasing our application, write us on <a href="https://helpdesk.ultimatekode.com" >helpdesk.ultimatekode.com</a>
+                        Thank you for purchasing our application, write us on <a href="https://helpdesk.alecotz.com" >helpdesk.alecotz.com</a>
                     </div>
                 </div>
             </div>

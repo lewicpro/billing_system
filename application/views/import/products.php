@@ -9,7 +9,7 @@
             <div class="grid_3 grid_4">
                 <h5><?php echo $this->lang->line('Import Products') ?></h5>
                 <hr>
-                <p>Your products data file should as per this template <a href="http://www.ultimatekode.com/samples/products_import.csv"><strong>Download Template</strong></a>. Please download a database backup before importing the products.</p>
+                <p>Your products data file should as per this template <a href="http://www.alecotz.com/samples/products_import.csv"><strong>Download Template</strong></a>. Please download a database backup before importing the products.</p>
 <p>Column Order in CSV File Must be like this</p>
  <pre>
      1. (string)Product A, 2. (string)ProductCODE, 3.(number)Sales_Price, 4.(number)Factory_Price,

@@ -8,7 +8,7 @@
         <form method="post" id="activ" class="form-horizontal">
             <div class="grid_3 grid_4">
 
-                <h5>Activate Neo Billing</h5>
+                <h5>Activate Aleco Tanzania</h5>
                 <hr>
 
 

@@ -4,8 +4,8 @@
  * Copyright (c) Rajesh Dukiya. All Rights Reserved
  * ***********************************************************************
  *
- *  Email: support@ultimatekode.com
- *  Website: https://www.ultimatekode.com
+ *  Email: support@alecotz.com
+ *  Website: https://www.alecotz.com
  *
  *  ************************************************************************
  *  * This software is furnished under a license and may be used and copied

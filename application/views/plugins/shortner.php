@@ -70,7 +70,7 @@
         <div class="alert alert-indigo">
             <a href="#" class="close" data-dismiss="alert">&times;</a>
 
-            <div class="message">Please note that in Neo Billing v2.7 Goo.gl URL shortener removed. Goo.gl URL shortener service is closed for new users  .</div>
+            <div class="message">Please note that in Aleco Tanzania v2.7 Goo.gl URL shortener removed. Goo.gl URL shortener service is closed for new users  .</div>
         </div>
     </div>
 

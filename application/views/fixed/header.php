@@ -8,7 +8,7 @@
     <?php if (@$title) {
         echo "<title>$title</title >";
     } else {
-        echo "<title>Neo Billing</title >";
+        echo "<title>Aleco Tanzania</title >";
     }
     ?>
     <link rel="apple-touch-icon" sizes="60x60" href="<?php echo base_url(); ?>assets/images/ico/apple-icon-60.png">

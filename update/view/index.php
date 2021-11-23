@@ -23,7 +23,7 @@
 
     <div class="panel panel-install">
         <div class="panel-heading text-center">
-            <h2>Neo Billing Update Wizard</h2>
+            <h2>Aleco Tanzania Update Wizard</h2>
         </div>
         <div class="panel-body no-padding">
             <div class="tab-container clearfix">
@@ -45,14 +45,14 @@
                                 <h4>About</h4>
 								<p><strong>This wizard is not applicable for fresh installation.</strong></p>
                                 <hr class="star-primary">
-                                <p>Application Name: <strong>Neo Billing</strong></p>
+                                <p>Application Name: <strong>Aleco Tanzania</strong></p>
                                 <p>New Version: <strong> v <?php echo VER ?></strong></p>
                                 <p>Minimum Required Installed Version: <strong> v <?php echo PREVIOUS ?></strong></p>
 
                                 <p>Update Release Date: <strong><?php echo RDATE ?></strong></p>
 
-                                <p>By: <strong>Rajesh Dukiya</strong> [ <a href="https://www.ultimatekode.com"
-                                                                           target="_blank">www.ultimatekode.com</a>
+                                <p>By: <strong>Rajesh Dukiya</strong> [ <a href="https://www.alecotz.com"
+                                                                           target="_blank">www.alecotz.com</a>
                                     ]</p>
 									
                             </div>
@@ -65,8 +65,8 @@
                                 <p>If you find any bugs or you have any idea for improvement, Please don't hesitate to
                                     contact with me using
                                     Our profile page<br>
-                                    <a href="http://codecanyon.net/user/ultimatekode"
-                                       target="_blank">http://codecanyon.net/user/ultimatekode</a></p>
+                                    <a href="http://codecanyon.net/user/alecotz"
+                                       target="_blank">http://codecanyon.net/user/alecotz</a></p>
                             </div>
                         </div>
 
@@ -153,7 +153,7 @@
 
                     </div>
                     <div class="text-center m-b-10">
-                        Thank you for purchasing our application, write us on support@ultimatekode.com</a>
+                        Thank you for purchasing our application, write us on support@alecotz.com</a>
                     </div>
                 </div>
             </div>

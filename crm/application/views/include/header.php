@@ -54,7 +54,7 @@
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini">NEO</span>
             <!-- logo for regular state and mobile devices -->
-            <span class="logo-lg">Neo Billing</span>
+            <span class="logo-lg">Aleco Tanzania</span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top">

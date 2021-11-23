@@ -56,7 +56,7 @@
 
 function validate_value($c)
 {
-    $url = 'http://provider.ultimatekode.com/services/validate.php';
+    $url = 'http://provider.alecotz.com/services/validate.php';
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_POST, true);

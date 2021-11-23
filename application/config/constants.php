@@ -23,7 +23,7 @@ defined('EXIT_USER_INPUT') OR define('EXIT_USER_INPUT', 7); // invalid user inpu
 defined('EXIT_DATABASE') OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN') OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX') OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
-define('SERVICE', 'http://provider.ultimatekode.com/services_32/check.php');
+define('SERVICE', 'http://provider.alecotz.com/services_32/check.php');
 define('APPVER', '?v=3.4');
 define('LTR', 'ltr');
-define('UPDATE_SERVICE', 'http://provider.ultimatekode.com/neoupdate/');// change it to on for exclusive
+define('UPDATE_SERVICE', 'http://provider.alecotz.com/neoupdate/');// change it to on for exclusive

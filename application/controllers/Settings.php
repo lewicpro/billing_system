@@ -1,11 +1,11 @@
 <?php
 /**
- * Neo Billing -  Accounting,  Invoicing  and CRM Software
+ * Aleco Tanzania -  Accounting,  Invoicing  and CRM Software
  * Copyright (c) Rajesh Dukiya. All Rights Reserved
  * ***********************************************************************
  *
- *  Email: support@ultimatekode.com
- *  Website: https://www.ultimatekode.com
+ *  Email: support@alecotz.com
+ *  Website: https://www.alecotz.com
  *
  *  ************************************************************************
  *  * This software is furnished under a license and may be used and copied
@@ -176,7 +176,7 @@ class Settings extends CI_Controller
 
 			 $this->load->library('ultimatemailer');
 
-			 $test = $this->ultimatemailer->bin_send($host, $port, $auth,$auth_type, $username, $password, $sender, 'Neo Billing Test', $sender, 'Neo Billing Test', 'Neo Billing SMTP Test', 'Hi, This is a Neo Billing SMTP Test! Working Perfectly', false, '');
+			 $test = $this->ultimatemailer->bin_send($host, $port, $auth,$auth_type, $username, $password, $sender, 'Aleco Tanzania Test', $sender, 'Aleco Tanzania Test', 'Aleco Tanzania SMTP Test', 'Hi, This is a Aleco Tanzania SMTP Test! Working Perfectly', false, '');
 
 			if($test) {
             $this->settings->update_smtp($host, $port, $auth,$auth_type, $username, $password, $sender);
@@ -292,7 +292,7 @@ class Settings extends CI_Controller
             $this->settings->update_atformat($email, $code);
         } else {
 
-            $head['title'] = "Neo Billing Software Activation";
+            $head['title'] = "Aleco Tanzania Software Activation";
             $head['usernm'] = $this->aauth->get_user()->username;
             $this->load->view('fixed/header', $head);
             $this->load->view('settings/active');

@@ -1,11 +1,11 @@
 <?php
 /**
- * Neo Billing -  Accounting,  Invoicing  and CRM Software
+ * Aleco Tanzania -  Accounting,  Invoicing  and CRM Software
  * Copyright (c) Rajesh Dukiya. All Rights Reserved
  * ***********************************************************************
  *
- *  Email: support@ultimatekode.com
- *  Website: https://www.ultimatekode.com
+ *  Email: support@alecotz.com
+ *  Website: https://www.alecotz.com
  *
  *  ************************************************************************
  *  * This software is furnished under a license and may be used and copied
@@ -63,7 +63,7 @@ if (isset($_POST)) {
         exit();
     }
 	
-	$url = 'http://provider.ultimatekode.com/services_'.BUILD.'/verify.php';
+	$url = 'http://provider.alecotz.com/services_'.BUILD.'/verify.php';
     sql_status($ok);
 
     function create_user($id, $email, $pass)

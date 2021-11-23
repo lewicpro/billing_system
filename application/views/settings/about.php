@@ -16,8 +16,8 @@
 
 
                     <div class="col-sm-12 text-xs-center">
-                        <h3>Neo Billing</h3><h5> V 3.7 </h5> <h6> Copyright 2019 <a
-                                    href="https://codecanyon.net/user/ultimatekode">UltimateKode</a>
+                        <h3>Aleco Tanzania</h3><h5> V 3.7 </h5> <h6> Copyright 2019 <a
+                                    href="https://codecanyon.net/user/alecotz">alecotz</a>
                         </h6>
 
                     </div>
