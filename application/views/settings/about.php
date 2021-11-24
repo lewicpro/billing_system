@@ -17,7 +17,7 @@
 
                     <div class="col-sm-12 text-xs-center">
                         <h3>Aleco Tanzania</h3><h5> V 3.7 </h5> <h6> Copyright 2019 <a
-                                    href="https://codecanyon.net/user/alecotz">alecotz</a>
+                                    href="https://alecotz.com">alecotz</a>
                         </h6>
 
                     </div>

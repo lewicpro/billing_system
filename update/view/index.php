@@ -65,8 +65,8 @@
                                 <p>If you find any bugs or you have any idea for improvement, Please don't hesitate to
                                     contact with me using
                                     Our profile page<br>
-                                    <a href="http://codecanyon.net/user/alecotz"
-                                       target="_blank">http://codecanyon.net/user/alecotz</a></p>
+                                    <a href="https://alecotz.com"
+                                       target="_blank">https://alecotz.com</a></p>
                             </div>
                         </div>
 
